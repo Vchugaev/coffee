@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ноутбук Lenovo",
+      "category": "Электроника",
+      "price": 45000,
+      "status": "В наличии",
+      "date_created": "2024-03-21"
+    },
+    {
+      "id": 2,
+      "name": "Смартфон Samsung",
+      "category": "Электроника",
+      "price": 35000,
+      "status": "В наличии",
+      "date_created": "2024-03-20"
+    },
+    {
+      "id": 3,
+      "name": "Планшет Apple",
+      "category": "Электроника",
+      "price": 55000,
+      "status": "Нет в наличии",
+      "date_created": "2024-03-19"
+    },
+    {
+      "id": 4,
+      "name": "Наушники Sony",
+      "category": "Аксессуары",
+      "price": 12000,
+      "status": "В наличии",
+      "date_created": "2024-03-18"
+    },
+    {
+      "id": 5,
+      "name": "Часы Apple Watch",
+      "category": "Аксессуары",
+      "price": 25000,
+      "status": "В наличии",
+      "date_created": "2024-03-17"
+    },
+    {
+      "id": 6,
+      "name": "Фотоаппарат Canon",
+      "category": "Электроника",
+      "price": 65000,
+      "status": "Нет в наличии",
+      "date_created": "2024-03-16"
+    },
+    {
+      "id": 7,
+      "name": "Микрофон Blue Yeti",
+      "category": "Аксессуары",
+      "price": 15000,
+      "status": "В наличии",
+      "date_created": "2024-03-15"
+    },
+    {
+      "id": 8,
+      "name": "Монитор Dell",
+      "category": "Электроника",
+      "price": 28000,
+      "status": "В наличии",
+      "date_created": "2024-03-14"
+    },
+    {
+      "id": 9,
+      "name": "Клавиатура Razer",
+      "category": "Аксессуары",
+      "price": 9000,
+      "status": "В наличии",
+      "date_created": "2024-03-13"
+    },
+    {
+      "id": 10,
+      "name": "Мышь Logitech",
+      "category": "Аксессуары",
+      "price": 5000,
+      "status": "Нет в наличии",
+      "date_created": "2024-03-12"
+    }
+  ]
+} 
